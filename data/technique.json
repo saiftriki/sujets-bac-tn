@@ -1,0 +1,1516 @@
+{
+    
+    "mathématiques": {
+        "2008": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_mathématiques_2008_principale_subject",
+                "controle": "link_to_mathématiques_2008_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_mathématiques_2008_principale_correction",
+                "controle": "link_to_mathématiques_2008_controle_correction"
+            }
+        },
+        "2009": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_mathématiques_2009_principale_subject",
+                "controle": "link_to_mathématiques_2009_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_mathématiques_2009_principale_correction",
+                "controle": "link_to_mathématiques_2009_controle_correction"
+            }
+        },
+        "2010": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_mathématiques_2010_principale_subject",
+                "controle": "link_to_mathématiques_2010_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_mathématiques_2010_principale_correction",
+                "controle": "link_to_mathématiques_2010_controle_correction"
+            }
+        },
+        "2011": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_mathématiques_2011_principale_subject",
+                "controle": "link_to_mathématiques_2011_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_mathématiques_2011_principale_correction",
+                "controle": "link_to_mathématiques_2011_controle_correction"
+            }
+        },
+        "2012": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_mathématiques_2012_principale_subject",
+                "controle": "link_to_mathématiques_2012_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_mathématiques_2012_principale_correction",
+                "controle": "link_to_mathématiques_2012_controle_correction"
+            }
+        },
+        "2013": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_mathématiques_2013_principale_subject",
+                "controle": "link_to_mathématiques_2013_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_mathématiques_2013_principale_correction",
+                "controle": "link_to_mathématiques_2013_controle_correction"
+            }
+        },
+        "2014": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_mathématiques_2014_principale_subject",
+                "controle": "link_to_mathématiques_2014_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_mathématiques_2014_principale_correction",
+                "controle": "link_to_mathématiques_2014_controle_correction"
+            }
+        },
+        "2015": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_mathématiques_2015_principale_subject",
+                "controle": "link_to_mathématiques_2015_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_mathématiques_2015_principale_correction",
+                "controle": "link_to_mathématiques_2015_controle_correction"
+            }
+        },
+        "2016": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_mathématiques_2016_principale_subject",
+                "controle": "link_to_mathématiques_2016_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_mathématiques_2016_principale_correction",
+                "controle": "link_to_mathématiques_2016_controle_correction"
+            }
+        },
+        "2017": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_mathématiques_2017_principale_subject",
+                "controle": "link_to_mathématiques_2017_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_mathématiques_2017_principale_correction",
+                "controle": "link_to_mathématiques_2017_controle_correction"
+            }
+        },
+        "2018": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_mathématiques_2018_principale_subject",
+                "controle": "link_to_mathématiques_2018_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_mathématiques_2018_principale_correction",
+                "controle": "link_to_mathématiques_2018_controle_correction"
+            }
+        },
+        "2019": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_mathématiques_2019_principale_subject",
+                "controle": "link_to_mathématiques_2019_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_mathématiques_2019_principale_correction",
+                "controle": "link_to_mathématiques_2019_controle_correction"
+            }
+        },
+        "2020": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_mathématiques_2020_principale_subject",
+                "controle": "link_to_mathématiques_2020_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_mathématiques_2020_principale_correction",
+                "controle": "link_to_mathématiques_2020_controle_correction"
+            }
+        },
+        "2021": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_mathématiques_2021_principale_subject",
+                "controle": "link_to_mathématiques_2021_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_mathématiques_2021_principale_correction",
+                "controle": "link_to_mathématiques_2021_controle_correction"
+            }
+        },
+        "2022": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_mathématiques_2022_principale_subject",
+                "controle": "link_to_mathématiques_2022_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_mathématiques_2022_principale_correction",
+                "controle": "link_to_mathématiques_2022_controle_correction"
+            }
+        },
+        "2023": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_mathématiques_2023_principale_subject",
+                "controle": "link_to_mathématiques_2023_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_mathématiques_2023_principale_correction",
+                "controle": "link_to_mathématiques_2023_controle_correction"
+            }
+        },
+        "2024": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_mathématiques_2024_principale_subject",
+                "controle": "link_to_mathématiques_2024_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_mathématiques_2024_principale_correction",
+                "controle": "link_to_mathématiques_2024_controle_correction"
+            }
+        }
+    },
+    "informatique": {
+    "2008": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2009": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2010": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2011": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2012": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2013": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2014": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2015": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2016": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2017": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2018": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2019": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2020": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2021": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2022": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2023": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2024": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    }
+    },
+    "sciences physiques": {
+    "2008": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2009": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2010": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2011": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2012": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2013": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2014": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2015": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2016": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2017": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2018": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2019": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2020": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2021": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2022": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2023": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2024": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    }
+    },
+    "techniques": {
+    "2008": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2009": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2010": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2011": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2012": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2013": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2014": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2015": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2016": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2017": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2018": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2019": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2020": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2021": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2022": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2023": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2024": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    }
+    },
+    "anglais": {
+        "2008": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_anglais_2008_principale_subject",
+                "controle": "link_to_anglais_2008_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_anglais_2008_principale_correction",
+                "controle": "link_to_anglais_2008_controle_correction"
+            }
+        },
+        "2009": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_anglais_2009_principale_subject",
+                "controle": "link_to_anglais_2009_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_anglais_2009_principale_correction",
+                "controle": "link_to_anglais_2009_controle_correction"
+            }
+        },
+        "2010": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_anglais_2010_principale_subject",
+                "controle": "link_to_anglais_2010_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_anglais_2010_principale_correction",
+                "controle": "link_to_anglais_2010_controle_correction"
+            }
+        },
+        "2011": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_anglais_2011_principale_subject",
+                "controle": "link_to_anglais_2011_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_anglais_2011_principale_correction",
+                "controle": "link_to_anglais_2011_controle_correction"
+            }
+        },
+        "2012": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_anglais_2012_principale_subject",
+                "controle": "link_to_anglais_2012_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_anglais_2012_principale_correction",
+                "controle": "link_to_anglais_2012_controle_correction"
+            }
+        },
+        "2013": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_anglais_2013_principale_subject",
+                "controle": "link_to_anglais_2013_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_anglais_2013_principale_correction",
+                "controle": "link_to_anglais_2013_controle_correction"
+            }
+        },
+        "2014": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_anglais_2014_principale_subject",
+                "controle": "link_to_anglais_2014_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_anglais_2014_principale_correction",
+                "controle": "link_to_anglais_2014_controle_correction"
+            }
+        },
+        "2015": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_anglais_2015_principale_subject",
+                "controle": "link_to_anglais_2015_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_anglais_2015_principale_correction",
+                "controle": "link_to_anglais_2015_controle_correction"
+            }
+        },
+        "2016": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_anglais_2016_principale_subject",
+                "controle": "link_to_anglais_2016_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_anglais_2016_principale_correction",
+                "controle": "link_to_anglais_2016_controle_correction"
+            }
+        },
+        "2017": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_anglais_2017_principale_subject",
+                "controle": "link_to_anglais_2017_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_anglais_2017_principale_correction",
+                "controle": "link_to_anglais_2017_controle_correction"
+            }
+        },
+        "2018": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_anglais_2018_principale_subject",
+                "controle": "link_to_anglais_2018_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_anglais_2018_principale_correction",
+                "controle": "link_to_anglais_2018_controle_correction"
+            }
+        },
+        "2019": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_anglais_2019_principale_subject",
+                "controle": "link_to_anglais_2019_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_anglais_2019_principale_correction",
+                "controle": "link_to_anglais_2019_controle_correction"
+            }
+        },
+        "2020": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_anglais_2020_principale_subject",
+                "controle": "link_to_anglais_2020_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_anglais_2020_principale_correction",
+                "controle": "link_to_anglais_2020_controle_correction"
+            }
+        },
+        "2021": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_anglais_2021_principale_subject",
+                "controle": "link_to_anglais_2021_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_anglais_2021_principale_correction",
+                "controle": "link_to_anglais_2021_controle_correction"
+            }
+        },
+        "2022": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_anglais_2022_principale_subject",
+                "controle": "link_to_anglais_2022_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_anglais_2022_principale_correction",
+                "controle": "link_to_anglais_2022_controle_correction"
+            }
+        },
+        "2023": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_anglais_2023_principale_subject",
+                "controle": "link_to_anglais_2023_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_anglais_2023_principale_correction",
+                "controle": "link_to_anglais_2023_controle_correction"
+            }
+        },
+        "2024": {
+            "sessions": ["principale", "controle"],
+            "sujets": {
+                "principale": "link_to_anglais_2024_principale_subject",
+                "controle": "link_to_anglais_2024_controle_subject"
+            },
+            "corrections": {
+                "principale": "link_to_anglais_2024_principale_correction",
+                "controle": "link_to_anglais_2024_controle_correction"
+            }
+        }
+    },
+    "arabe": {
+    "2008": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2009": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2010": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2011": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2012": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2013": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2014": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2015": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2016": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2017": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2018": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2019": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2020": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2021": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2022": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2023": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2024": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    }
+    },
+    "français": {
+    "2008": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2009": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2010": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2011": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2012": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2013": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2014": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2015": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2016": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2017": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2018": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2019": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2020": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2021": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2022": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2023": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2024": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    }
+    },
+    "philosophie": {
+    "2008": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2009": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2010": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2011": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2012": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2013": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2014": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2015": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2016": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2017": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2018": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2019": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2020": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2021": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2022": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2023": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    },
+    "2024": {
+        "sessions": ["principale", "controle"],
+        "sujets": {
+            "principale": "link",
+            "controle": "link"
+        },
+        "corrections": {
+            "principale": "link",
+            "controle": "link"
+        }
+    }
+    }
+
+}
