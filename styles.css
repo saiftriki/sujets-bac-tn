@@ -15,8 +15,8 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  position: relative;
 }
-
 body::before {
   content: "";
   position: fixed;
@@ -29,12 +29,13 @@ body::before {
   filter: blur(2px);
   z-index: -1000;
 }
-
+/*wrapper styling*/
 .wrapper {
   display: flex;
   flex-direction: column;
   flex: 1;
 }
+<<<<<<< HEAD
 
 #props{
   position: absolute;
@@ -60,6 +61,9 @@ body::before {
 
 }
 
+=======
+/*header styling*/
+>>>>>>> 5e5490913f9a523f54d05ea839cedc6ccafb180d
 header {
   background-color: #06101dee;
   color: rgba(255, 255, 255, 0.925);
@@ -68,11 +72,10 @@ header {
   position: relative;
   z-index: 10;
   display: flex;
-  flex-wrap: wrap; /* Allow flex items to wrap */
+  flex-wrap: wrap; 
   justify-content: space-between;
   align-items: center;
 }
-
 .header-container {
   display: flex;
   flex-wrap: wrap;
@@ -81,36 +84,34 @@ header {
   width: 100%;
   padding: 0 1em;
 }
-
+/*Header Title styling*/
 .header-container h1 {
   text-align: center;
 }
+/*M-E logo styling*/
 .logo-container {
   display: flex;
   align-items: center;
   order: 0;
 }
-
 .logo {
   max-height: 60px;
   margin-right: 1em;
 }
-
+/*nav styling*/
 nav {
   display: flex;
   justify-content: center;
   flex-grow: 1; /* Allow nav to grow */
 }
-
 nav ul {
   list-style: none;
   padding: 0;
   display: flex;
   gap: 1em;
-  flex-wrap: wrap; /* Allow nav items to wrap */
-  justify-content: center; /* Center the nav items */
+  flex-wrap: wrap; 
+  justify-content: center; 
 }
-
 nav ul li {
   display: inline;
 }
@@ -125,19 +126,18 @@ nav ul li a {
 nav ul li a:hover {
   color: #ff9800;
 }
-
+/*main styling*/
 main {
   flex: 1;
   padding: 2em 1em;
 }
-
+/*search styling*/
 #search {
   display: flex;
   justify-content: center;
   align-items: center;
   margin: 2em;
 }
-
 #search-bar {
   width: 60%;
   max-width: 700px;
@@ -148,12 +148,12 @@ main {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   transition: border-color 0.3s, box-shadow 0.3s;
 }
-
 #search-bar:focus {
   border-color: #4caf50;
   box-shadow: 0 2px 8px rgba(76, 175, 80, 0.3);
   outline: none;
 }
+<<<<<<< HEAD
 #sections h2 {
   text-decoration: underline;
   
@@ -190,19 +190,42 @@ main {
   
 .ligne-cards {
   height: 70vh;
+=======
+/*cards styling*/
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2em;
+}
+.ligne-cards {  
+  height: auto;
+>>>>>>> 5e5490913f9a523f54d05ea839cedc6ccafb180d
   border: 0;
   margin: 0 auto;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+<<<<<<< HEAD
   width: 75%;
   gap: 20px; 
+=======
+  width: 80%;
+  gap: 10px; 
+  border: 0px;
+>>>>>>> 5e5490913f9a523f54d05ea839cedc6ccafb180d
 }
-
 .card {
+<<<<<<< HEAD
   width: 180px;
   height: 180px; 
   text-align: center;
   margin: auto;
+=======
+  margin: 50px;
+  background: #1b1b1f28;
+  backdrop-filter: blur(20px);
+>>>>>>> 5e5490913f9a523f54d05ea839cedc6ccafb180d
   border-radius: 50%;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   padding: 6px;
@@ -229,6 +252,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
+<<<<<<< HEAD
   border-radius: 50%;
   margin: auto;
   color: #fff;
@@ -247,15 +271,64 @@ main {
 
 
 /*Footer styling*/
+=======
+  justify-content: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: all .3s ease; 
+  will-change: transform;
+}
+.card-link {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card-icon {
+  font-size: 2.5em;
+  color: #f7f7f7d4;
+
+}
+.card-title {
+  margin: 15px auto 10px auto;
+  font-size: 16px;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+}
+.card:hover {
+  backdrop-filter: none;
+  cursor: pointer;
+  background-color: #f7f7f7d4;
+  transform:scale(1.1) ;
+}
+.card:hover .card-icon i,
+.card:hover .card-title {
+  color: #004196ee;
+}
+.card:hover .card-icon i{
+  font-size: 36px;
+  transition: font-size 0.1s ease;
+}
+.card:hover .card-title {
+  font-size:15px;
+  margin: 12px auto 10px auto;
+  transition: font-size 0.3s ease;
+}
+
+
+/*footer styling*/
+>>>>>>> 5e5490913f9a523f54d05ea839cedc6ccafb180d
 footer {
   background-color: #06101dee;
   color: white;
   padding: 1em 0;
   width: 100%;
+  
 }
+
 
 /*Animations & media*/
 
+<<<<<<< HEAD
 @keyframes mymove {
   0% {
     top: 0px;
@@ -272,4 +345,31 @@ footer {
     width: 200px;
     height: 200px;
   }
+=======
+
+
+/*matiere & annees Styling */
+
+.subject-link,
+.year-link {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #007bff; /* Blue color, adjust as needed */
+    color: #fff; /* White text color */
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+>>>>>>> 5e5490913f9a523f54d05ea839cedc6ccafb180d
 }
+
+.subject-link:hover,
+.year-link:hover {
+    background-color: #0056b3; /* Darker shade of blue on hover */
+}
+
+.subjects ul{
+  list-style: none;
+}
+
+
