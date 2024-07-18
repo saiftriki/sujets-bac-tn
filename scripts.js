@@ -6,6 +6,7 @@ $(document).ready(function() {
         });
     });
 
+    // kol année btn tclicki 3lih bech y5adem l'function hedhi
     $('.year-link').on('click', function(e) {
         e.preventDefault();
 
@@ -25,6 +26,7 @@ $(document).ready(function() {
         $('#loading').show();
         $('#subjects').hide();
 
+        // ajax request
         $.ajax({
             url: 'data/' + section + '.json',
             dataType: 'json',
@@ -77,7 +79,7 @@ $(document).ready(function() {
     });
 });
 
-/* Direct link function */
+
 /* Direct link function */
 function getDirectDownloadLink(url) {
     // Example input URL: https://drive.google.com/file/d/FILE_ID/view?usp=sharing
@@ -86,7 +88,7 @@ function getDirectDownloadLink(url) {
     if (!match) {
         match = url.match(/\/file\/([a-zA-Z0-9_-]+)/);
     }
-    
+
     if (match && match.length > 1) {
         var fileId = match[1];
         // Construct direct download link

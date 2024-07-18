@@ -31,7 +31,7 @@
         <main>
             <!-- Main content -->
             <section id="subjects" class="subjects">
-                
+            <h2>matières Disponibles</h2>
                 <div class="subject-container">
                     <?php
                     $sections = [
@@ -52,10 +52,11 @@
 
                         // Loop through subjects and display as links or buttons
                         foreach ($subjects as $subject) {
+                            // kol matiere hia link :
                             echo '<a href="annees.php?section=' . urlencode($section) . '&subject=' . urlencode($subject) . '" class="subject-link">' . htmlspecialchars($subject) . '</a><br>';
                         }
                     } else {
-                        echo 'Section not found.';
+                        echo 'Section introuvable.';
                     }
                    
 
