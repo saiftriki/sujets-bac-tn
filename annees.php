@@ -28,7 +28,6 @@
                 </nav>
             </div>
         </header>
-        
         <main>
             <section id="years">
                 <div id="loading" style="display:none;">Loading...</div>
@@ -46,7 +45,7 @@
                             echo '<a href="#" class="year-link" data-section="' . htmlspecialchars($section) . '" data-subject="' . htmlspecialchars($subject) . '" data-year="' . htmlspecialchars($year) . '">' . htmlspecialchars($year) . '</a><br>';
                         }
                     } else {
-                        echo 'Section or Subject not found.';
+                        echo 'Section ou matière introuvable.';
                     }
                     ?>
                 </div>
