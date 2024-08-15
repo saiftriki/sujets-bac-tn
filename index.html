@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="wrapper">
-        <header id="header-home">
+        <header>
             <div class="header-container">
                 <div class="logo-container">
                     <img src="LogoM-E.png" class="logo" alt="ME">
@@ -18,8 +18,8 @@
                 
                 <h1><i class="fas fa-graduation-cap"></i> Sujets de Baccalauréat Tunisiens</h1>
                 
-                <nav id="props">
-                    <ul >
+                <nav>
+                    <ul>
                         <li><a href="index.html">Accueil</a></li>
                         <li><a href="about.html">À propos</a></li>
                         <li><a href="contact.html">Contact</a></li>
@@ -27,96 +27,91 @@
                 </nav>
             </div>
         </header>
-
-        <div id="adresse">
-            <a href="index.html"><h4 >Home/</h4></a>
-
-        </div>
         
         <main>
             <section id="search">
-                <input type="text" id="search-bar" placeholder="Rechercher un sujet...">
+                <input type="text" id="search-bar" placeholder="Rechercher une section...">
             </section>
+            
             <section id="sections">
-                <h2 id="sec">Sections Disponibles</h2>
+                <h2>Sections Disponibles</h2>
                 <div class="card-container">
                     <fieldset class="ligne-cards">
-
-                    <div class="card">
-                        <a href="section.php?section=informatique">
-                            <div class="rounded-icon">
-                            <div class="icon-bg">
-                                <i class="fas fa-laptop-code"></i>
-                            </div>
-                            <h4 class="card-title">Informatique</h4>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="card">
-                        <a href="section.php?section=mathématiques">
-                            <div class="rounded-icon">
-                            <div class="icon-bg">
-                                <i class="fas fa-square-root-alt"></i>
-                            </div>
-                            <h4 class="card-title">Mathématiques</h4>
+                        <a href="matiere.php?section=informatique" class="card-link">
+                            <div class="card">
+                                <div class="rounded-icon">
+                                    <div class="card-icon">
+                                        <i class="fas fa-laptop-code"></i>
+                                    </div>
+                                    <h4 class="card-title">Informatique</h4>
+                                </div>
                             </div>
                         </a>
-                    </div>
-                    <div class="card">
-                        <a href="section.php?section=économie">
-                            <div class="rounded-icon">
-                            <div class="icon-bg">
-                                <i class="fas fa-chart-line"></i></h4>
-                            </div>
-                            <h4 class="card-title">Économie</div>
-                        </a>
-                    </div>
-                    <div class="card">
-                        <a href="section.php?section=sciences">
-                            <div class="rounded-icon">
-                            <div class="icon-bg">
-                                <i class="fas fa-flask"></i>
-                            </div>
-                            <h4 class="card-title">Sciences</h4>
+                        <a href="matiere.php?section=mathématiques" class="card-link">
+                            <div class="card">
+                                <div class="rounded-icon">
+                                    <div class="card-icon">
+                                        <i class="fas fa-square-root-alt"></i>
+                                    </div>
+                                    <h4 class="card-title">Mathématiques</h4>
+                                </div>
                             </div>
                         </a>
-                    </div>
-
-                
-                    <div class="card">
-                        <a href="section.php?section=technique">
-                            <div class="rounded-icon">
-                            <div class="icon-bg">
-                                <i class="fas fa-cogs"></i>
-                            </div>
-                            <h4 class="card-title">Technique</h4>
+                        <a href="matiere.php?section=économie" class="card-link">
+                            <div class="card">
+                                <div class="rounded-icon">
+                                    <div class="card-icon">
+                                        <i class="fas fa-chart-line"></i>
+                                    </div>
+                                    <h4 class="card-title">Économie</h4>
+                                </div>
                             </div>
                         </a>
-                    </div>
-                    <div class="card">
-                        <a href="section.php?section=lettres">
-                            <div class="rounded-icon">
-                            <div class="icon-bg">
-                                <i class="fas fa-book"></i>
-                            </div>
-                            <h4 class="card-title">Lettres</h4>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="card">
-                        <a href="section.php?section=sport">
-                            <div class="rounded-icon">
-                            <div class="icon-bg">
-                                <i class="fas fa-running"></i>
-                            </div>
-                            <h4 class="card-title">Sport</h4>
+                        <a href="matiere.php?section=sciences" class="card-link">
+                            <div class="card">
+                                <div class="rounded-icon">
+                                    <div class="card-icon">
+                                        <i class="fas fa-flask"></i>
+                                    </div>
+                                    <h4 class="card-title">Sciences</h4>
+                                </div>
                             </div>
                         </a>
-                    </div>
-                </fieldset >
+                        <a href="matiere.php?section=technique" class="card-link">
+                            <div class="card">
+                                <div class="rounded-icon">
+                                    <div class="card-icon">
+                                        <i class="fas fa-cogs"></i>
+                                    </div>
+                                    <h4 class="card-title">Technique</h4>
+                                </div>
+                            </div>
+                        </a>
+                        <a href="matiere.php?section=lettres" class="card-link">
+                            <div class="card">
+                                <div class="rounded-icon">
+                                    <div class="card-icon">
+                                        <i class="fas fa-book"></i>
+                                    </div>
+                                    <h4 class="card-title">Lettres</h4>
+                                </div>
+                            </div>
+                        </a>
+                        <a href="matiere.php?section=sport" class="card-link">
+                            <div class="card">
+                                <div class="rounded-icon">
+                                    <div class="card-icon">
+                                        <i class="fas fa-running"></i>
+                                    </div>
+                                    <h4 class="card-title">Sport</h4>
+                                </div>
+                            </div>
+                        </a>
+                    </fieldset>
                 </div>
             </section>
         </main>
+        
         <footer>
             <p>&copy; 2024 Sujets de Baccalauréat Tunisiens</p>
         </footer>

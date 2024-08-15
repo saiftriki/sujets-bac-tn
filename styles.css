@@ -1,13 +1,3 @@
-*{
-  box-sizing: border-box;
-  margin: 0;
-}
-:root{
-  --theme-color: #004196ee;
-  --special-white:#f0f3fdc4;
-  --card-color:#8c9eac;
-}
-
 body {
   font-family: "Arial", sans-serif;
   box-sizing: border-box;
@@ -26,7 +16,7 @@ body::before {
   height: 100%;
   background-image: url("tech.png");
   background-size: cover;
-  filter: blur(2px);
+  filter: blur(4px);
   z-index: -1000;
 }
 /*wrapper styling*/
@@ -35,35 +25,7 @@ body::before {
   flex-direction: column;
   flex: 1;
 }
-<<<<<<< HEAD
-
-#props{
-  position: absolute;
-  right: 10px;
-}
-
-#adresse{
-  padding-top: 3px;
-  padding-left: 5px;
-  height: 25px;
-  width:100% ;
-  color: #fff;
-  background-color: #0f1214;
-  border-radius: 10px;
-}
-
-#adresse h4{
-  float: left;
-  color: #fff;
-}
-#adresse h4:hover{
-  color: #ff9800
-
-}
-
-=======
 /*header styling*/
->>>>>>> 5e5490913f9a523f54d05ea839cedc6ccafb180d
 header {
   background-color: #06101dee;
   color: rgba(255, 255, 255, 0.925);
@@ -92,7 +54,7 @@ header {
 .logo-container {
   display: flex;
   align-items: center;
-  order: 0;
+  order: 2;
 }
 .logo {
   max-height: 60px;
@@ -153,44 +115,6 @@ main {
   box-shadow: 0 2px 8px rgba(76, 175, 80, 0.3);
   outline: none;
 }
-<<<<<<< HEAD
-#sections h2 {
-  text-decoration: underline;
-  
-}
-
-
-#sections {
-  width: 100%; /* Ajustez selon vos besoins */
-  height: 50px; /* Ajustez selon vos besoins */
-}
-
-#sec {
-  font-size: 24px; /* Taille de la police */
-  font-weight: bold; /* Gras pour mettre en évidence */
-  color: transparent; /* Rend le texte transparent au début */
-  animation: colorTransition 5s linear infinite; /* Animation de transition de couleur */
-}
-
-
-
-@keyframes colorTransition {
-  0% {
-    color: rgb(0, 0, 255); /* Départ de la droite */
-  }
-  50%{
-    color: rgb(160, 239, 250);
-  }
-  100% {
-    color: rgb(0, 0, 240); /* Arrivée à gauche */
-  }
-}
-
-/*card Styling*/
-  
-.ligne-cards {
-  height: 70vh;
-=======
 /*cards styling*/
 
 .card-container {
@@ -201,77 +125,25 @@ main {
 }
 .ligne-cards {  
   height: auto;
->>>>>>> 5e5490913f9a523f54d05ea839cedc6ccafb180d
   border: 0;
   margin: 0 auto;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-<<<<<<< HEAD
-  width: 75%;
-  gap: 20px; 
-=======
   width: 80%;
   gap: 10px; 
   border: 0px;
->>>>>>> 5e5490913f9a523f54d05ea839cedc6ccafb180d
 }
 .card {
-<<<<<<< HEAD
-  width: 180px;
-  height: 180px; 
-  text-align: center;
-  margin: auto;
-=======
   margin: 50px;
   background: #1b1b1f28;
   backdrop-filter: blur(20px);
->>>>>>> 5e5490913f9a523f54d05ea839cedc6ccafb180d
   border-radius: 50%;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-  padding: 6px;
-  backdrop-filter: blur(2px);
-  border: 5px solid var(--card-color);
-  transition: transform 0.3s ease-in-out, background 0.2s ease-in, border-color 0.2s ease-in; 
-  overflow: hidden; 
-}
-
-.card:hover {
-  transform: scale(1.1); 
-  background: var(--card-color);
-  border-color: var(--card-color);
-  backdrop-filter: blur(4px);
-}
-
-.card:hover .rounded-icon { 
-  background: transparent;
-}
-
-.rounded-icon {
-  width: 100%;
-  height: 100%;
+  padding: 1em;
+  width: 150px;
+  height: 150px;
   display: flex;
   flex-direction: column;
   align-items: center;
-<<<<<<< HEAD
-  border-radius: 50%;
-  margin: auto;
-  color: #fff;
-  background: var(--card-color);
-  transition: background 0.2s ease-in-out; 
-}
-
-.card a {
-  text-decoration: none;
-}
-
-.rounded-icon i {
-  font-size: 36px;
-  margin: 26px;
-}
-
-
-/*Footer styling*/
-=======
   justify-content: center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   transition: all .3s ease; 
@@ -316,7 +188,6 @@ main {
 
 
 /*footer styling*/
->>>>>>> 5e5490913f9a523f54d05ea839cedc6ccafb180d
 footer {
   background-color: #06101dee;
   color: white;
@@ -328,24 +199,6 @@ footer {
 
 /*Animations & media*/
 
-<<<<<<< HEAD
-@keyframes mymove {
-  0% {
-    top: 0px;
-    margin: 50px;
-    backdrop-filter: blur(4px);
-    width: 150px;
-    height: 150px;
-  }
-  100% {
-    top: 0px;
-    margin: 25px;
-    backdrop-filter: blur(10px);
-    background-color: #f7f7f7;
-    width: 200px;
-    height: 200px;
-  }
-=======
 
 
 /*matiere & annees Styling */
@@ -360,7 +213,6 @@ footer {
     text-decoration: none;
     border-radius: 5px;
     transition: background-color 0.3s ease;
->>>>>>> 5e5490913f9a523f54d05ea839cedc6ccafb180d
 }
 
 .subject-link:hover,
